@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56200569986",
+    "project_id": "localnotification-9f875",
+    "storage_bucket": "localnotification-9f875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56200569986:android:f0e03979630109972d809b",
+        "android_client_info": {
+          "package_name": "com.ewaldo.gd6_c_0859"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56200569986-ng0ih6sl0q8moagdntbki5dplho38fg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqN2dh7ZxnxCTzRN3VNxDZ50HhIZ00kO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56200569986-ng0ih6sl0q8moagdntbki5dplho38fg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
